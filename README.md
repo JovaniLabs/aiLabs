@@ -1,0 +1,3 @@
+# aiLabs
+ai50/projects/2020/x/degrees
+This course delves into the principles and algorithms at the heart of current artificial intelligence, delving into the theories that underpin technologies such as game-playing engines, handwriting recognition, and machine translation. Students study the theory underlying graph search algorithms, classification, optimization, reinforcement learning, and other subjects in artificial intelligence and machine learning through hands-on projects that they incorporate into their own Python applications. By the end of the course, students will have gained expertise with libraries for machine learning as well as understanding of artificial intelligence concepts that will allow them to develop their own intelligent systems.
